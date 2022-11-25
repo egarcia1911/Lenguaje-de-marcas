@@ -1,0 +1,14 @@
+p.dotted {border-style: dotted;}
+p  {
+  
+    color: blue;
+    border-style: solid;
+    border-color: black;
+    background-color: grey;
+  } 
+.amarillo{
+     background-color:  yellow;
+}  
+#sexto{
+    font-size: 2em;
+}
