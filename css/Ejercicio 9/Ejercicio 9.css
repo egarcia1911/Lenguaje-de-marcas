@@ -1,0 +1,35 @@
+#cabecera {
+    width: 100%;
+    
+    background-color: blue;
+    height: 250px;
+    border: solid 1px black;
+
+}
+
+#colizq {
+    
+    width: 75%;
+    
+    background-color: red;
+    float: left;
+    border: solid 1px black;
+      
+}
+
+#coldrcha {
+    
+    width: 25%;
+    
+    background-color: yellow;
+    float: right;
+    border: solid 1px black;
+    
+}
+
+#pie {
+    background-color: darkgreen;
+    height: 50px;
+    clear: both;
+    border: solid 1px black;
+}
