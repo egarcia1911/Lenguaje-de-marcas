@@ -1,0 +1,22 @@
+.primero{
+    width: 100%;
+    height: 100%;
+    background-color: red;
+}
+.segundo{
+    width: 75%;
+    height: 75%;
+    background-color: yellow;
+}
+.tercero{
+    width: 50%;
+    height: 50%;
+    background-color: blue; 
+}
+.cuarto{
+    width: 25%;
+    height: 25%;
+    background-color: green;  
+    border-style:solid;
+    border-color: plum;
+}

@@ -1,0 +1,15 @@
+.primero{
+    border-color: black;
+    width: 50%;
+    font-size: 100%;
+}
+.segundo{
+    width: 33%;
+    border-color: red;
+    font-size: 120%;
+}
+.tercero{
+    width: 25%;
+    border-color: blue;
+    font-size: 80%;
+}
