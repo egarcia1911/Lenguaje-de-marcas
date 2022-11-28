@@ -1,0 +1,18 @@
+.primero {
+    margin: 0px;
+    border: 1px solid #4CAF50;
+    background-color: aqua;
+    padding: 0px;
+  }
+  .segundo {
+    margin: 5px;
+    border: 1px solid #d6692a;
+    background-color: blueviolet;
+    padding: 5px;
+  }
+  .tercero {
+    margin: 0px;
+    border: 1px solid #cf1717;
+    background-color: lawngreen;
+    padding: 20px;
+  }
