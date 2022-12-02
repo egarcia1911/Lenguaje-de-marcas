@@ -1,0 +1,28 @@
+.primero {
+    width: 25%;
+    line-height : 25px;
+    font-size: 0.5em;
+    font-style:normal;
+    font-family: "Times New Roman", Times, serif;
+    text-align:left;
+    text-transform: capitalize;
+  }
+  .segundo {
+    width: 50%;
+    line-height : 50px;
+    font-size: 1em;
+    font-style:italic;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:right;
+    text-transform: capitalize;
+}
+  
+  .tercero {
+    width: 75%;
+    line-height : 75px;
+    font-size: 1.5em;
+    font-style:oblique;
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align:center;
+    text-transform: capitalize;
+  }
