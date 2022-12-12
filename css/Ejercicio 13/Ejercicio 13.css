@@ -1,0 +1,47 @@
+#colizq {
+    
+    width: 100%;
+    
+    background-color: red;
+    
+    border: solid 1px black;
+      
+}
+#foot {
+    
+    width: 100%;
+    
+    background-color: blue;
+    
+    border: solid 1px black;
+    
+}
+#coldrcha {
+    
+    width: 100%;
+    height: 400px;
+    overflow: auto;
+    background-color: greenyellow;
+    border: solid 1px black;
+  }
+  #navegacion  {
+    width: 100%;
+    height: 80px;
+    border:solid 1px black;
+    background-color: pink;
+   
+    padding-top: 5px;
+    
+  }
+
+  #navegacion ul {
+ list-style-type: none;
+ margin: 0px;
+ padding: 0px;
+  }
+  #navegacion ul li {
+    float: left;
+    border:solid 1px black;
+    padding: 5px;
+    margin: 5px;
+  }
