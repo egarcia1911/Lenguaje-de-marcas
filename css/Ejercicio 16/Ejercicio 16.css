@@ -1,0 +1,26 @@
+#titulo {
+    
+    width: 47%;
+    height: 100px;
+    float: left;
+    padding: 9px;
+    margin-bottom: 5px;
+    
+}
+#titulo h1{
+    color: red;
+}
+#titulo h2{
+    color: blue;
+}
+
+#cuestionario{
+    height: 200px;
+
+}
+
+#cuestionario2{
+    float: right;
+    height: 200px;
+    ma
+}

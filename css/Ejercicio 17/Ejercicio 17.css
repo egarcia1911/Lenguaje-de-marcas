@@ -1,0 +1,55 @@
+#zapatos{
+    
+      
+    width: 30%;
+    height: 200px;
+    float: left;
+}
+#principal{
+    margin-left: 20px;
+    border:solid 1px black;
+    width: 40%;
+    height: 300px;
+    background-color: brown;
+}
+#principal h2{
+    float:right;
+   
+    width: 20%;
+    height: 50 px;
+    padding: 9px;
+    margin-bottom: 5px;
+    text-align: right;
+    margin-right: 5%;
+}
+#principal h4{
+    text-align: right;
+    
+    width: 20%;
+    float:right;
+    margin-right: 10%;
+}
+#texto{
+   width: 50%;
+    float: right ;
+    margin-left: 20%;
+    
+    
+}
+#colores{
+    width: 50%;
+    float: right ;
+   
+    padding: 5px;
+    margin-bottom: 5px;
+    clear:both  
+}
+#colores li{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    
+    border-radius: 12px;
+    background-color: royalblue;
+    margin-left: 10px;
+}
